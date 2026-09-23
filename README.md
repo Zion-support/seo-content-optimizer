@@ -1,25 +1,19 @@
 # SEO Content Optimizer
 
-> Optimize pages for SEO: keywords, meta, internal links and briefs
+Optimize pages for SEO: keywords, meta, internal links and content structure. Part of the **Zion Tech Group AI App Network**.
 
-Optimize pages for SEO: keywords, meta, internal links and briefs.
-
-**Live:** https://ziontechgroup.com/seo-content-optimizer/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+🌐 **Live app:** https://ziontechgroup.com/seo-content-optimizer/
 
 ## Features
-- SERP-driven content briefs and keyword clustering
-- On-page scoring for titles, meta, headings and entities
-- Internal-link suggestions across your site
-- Rank and CTR tracking with refresh alerts
+- Keyword and search-intent analysis
+- Meta tags, headings and internal-link suggestions
+- Content scoring with actionable fixes
+- SERP preview and competitor comparison
 
-## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [AI Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/
-- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/
+## 🔗 Zion App Network
+- 🏠 [Zion Tech Group](https://ziontechgroup.com/) · [App Network Hub](https://github.com/Zion-support/zion-app-network)
+- Related apps: [Zion AI SEO Optimizer](https://github.com/Zion-support/zion-ai-seo-optimizer) · [AI Growth Marketing Hub](https://github.com/Zion-support/ai-growth-marketing-hub) · [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening)
+- 💼 [Plans & Pricing](https://ziontechgroup.com/plans/) · [Free AI Discovery](https://ziontechgroup.com/discovery/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*

@@ -1,11 +1,7 @@
-# 🔗 Zion AI App Network
+# Zion App Network links
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
-
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/seo-content-optimizer/
-- 🔗 Related: [Zion AI SEO Optimizer](https://ziontechgroup.com/zion-ai-seo-optimizer/) · [Content ROI Dashboard](https://ziontechgroup.com/content-roi-dashboard/) · [Discovery](https://ziontechgroup.com/discovery/)
-
-© 2026 Zion Tech Group.
+Hub: https://github.com/Zion-support/zion-app-network
+Showcase: https://ziontechgroup.com/apps/october-2026-batch99.html
+Interlinks: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS-batch99-marketing-growth.md
+Discovery (free, always online): https://ziontechgroup.com/discovery/
+Plans: https://ziontechgroup.com/en/plans/

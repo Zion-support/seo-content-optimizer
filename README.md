@@ -1,16 +1,17 @@
 # SEO Content Optimizer
 
-Optimize pages for SEO: keywords, meta, internal links and content briefs.
+AI SEO content optimizer — content briefs, internal-link suggestions and SERP gap analysis.
 
 **Live app:** https://ziontechgroup.com/seo-content-optimizer/
 
-## Features
-- Keyword density & readability scoring
-- Meta title/description generator
-- Internal linking suggestions
+Part of the [Zion AI App Network](https://github.com/Zion-support/zion-app-network) — Batch 99 (Marketing & Growth AI).
 
-## Zion App Network
-Part of the [Zion App Network](https://ziontechgroup.com/apps/).
-Related apps: [Caption Optimizer](https://github.com/Zion-support/ai-caption-optimizer) · [Social Manager](https://github.com/Zion-support/ai-social-manager) · [Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) · [Knowledge Gap Finder](https://github.com/Zion-support/knowledge-gap-finder)
+## Batch 99 suite
+- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/
+- [Ad Spend Optimizer](https://github.com/Zion-support/ad-spend-optimizer) — https://ziontechgroup.com/ad-spend-optimizer/
+- [Email Subject Lab](https://github.com/Zion-support/email-subject-lab) — https://ziontechgroup.com/email-subject-lab/
+- [Social Listening Radar](https://github.com/Zion-support/social-listening-radar) — https://ziontechgroup.com/social-listening-radar/
+- [Landing Page A/B Coach](https://github.com/Zion-support/landing-page-ab-coach) — https://ziontechgroup.com/landing-page-ab-coach/
+- [Referral Program AI](https://github.com/Zion-support/referral-program-ai) — https://ziontechgroup.com/referral-program-ai/
 
-© 2026 Zion Tech Group
+Free AI Discovery: https://ziontechgroup.com/discovery/ · All apps: https://ziontechgroup.com/apps/ · © 2026 Zion Tech Group
